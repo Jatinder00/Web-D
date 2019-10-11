@@ -1,0 +1,6 @@
+/* Setting up margin of body in the website*/
+body {
+    margin: 0;
+    margin-top: 50px;/* margin for top sectio  on the screen */
+    font-family: sans-serif; /* Customizing the font and the margin in the body Section*/
+}
