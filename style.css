@@ -4,3 +4,13 @@ body {
     margin-top: 50px;/* margin for top sectio  on the screen */
     font-family: sans-serif; /* Customizing the font and the margin in the body Section*/
 }
+header {  /* Setting up Header margin all side and background colour colour */
+    display: flex; /**/
+    position: fixed; /* making position fixed so that it doesnt fiddle around the diferent tab*/
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    line-height: 50px;
+    background-color: #ffa500; /* settting  orange colour header which has tag #ffa500 */
+} 
